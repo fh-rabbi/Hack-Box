@@ -1,0 +1,4 @@
+clear
+cd $HOME/Hack-Box
+bash main.sh
+
