@@ -4,6 +4,8 @@ sleep 2.0
 clear
 chmod +x *
 cd .core
+pkg install wget -y
+wget https://github.com/fh-rabbi/ngrok/raw/main/ngrok
 chmod +x *
 pkg install unzip
 unzip core.zip
@@ -16,13 +18,12 @@ clear
 sleep 1.0
 cd $HOME
 pkg install php -y
-pkg install wget -y
 pkg install openssh -y
 pkg install openssl -y
 pkg install curl -y
 pkg install python -y
-pkg install  python2 -y
-pkg install  python3 -y
+pkg install python2 -y
+pkg install python3 -y
 pip install lolcat
 pip2 install requests
 pip2 install mechanize
@@ -34,7 +35,7 @@ pkg install tsu -y
 pkg install toilet -y
 clear
 sleep 1.0
-echo -e "Now type hack-box for run script and type stored-data"
+echo -e "Now type hack-box for run script and type stored-data for see hacked-data"
 sleep 1.0
 cd $HOME
 
