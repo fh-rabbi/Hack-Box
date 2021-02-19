@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img title="Created by Fazle Rabbi" src=""></a>
+<font color="red">Created by fazle rabbi</font>
 </p>
 
 <p align="center">
