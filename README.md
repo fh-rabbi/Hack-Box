@@ -55,8 +55,8 @@ Hack-Box is a bash based script which is made for easyly used hacking tools in t
 
 <br>
 <p align="center">
-<img width="65%" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/2.png"/>
-<img width="60%" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/3.png"/>
+<img width="45%" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/2.png"/>
+<img width="50%" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/3.png"/>
 </p>
 
 
