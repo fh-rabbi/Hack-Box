@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/fh-rabbi"><img title="Github" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/git.png"></a>
-<a href="https://www.facebook.com/fozley.rabbi"><img title="Facebook" src=""></a>
+<a href="https://github.com/fh-rabbi"><img width="40px" title="Github" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/git.png"></a>
+<a href="https://www.facebook.com/fozley.rabbi"><img width="40px" title="Facebook" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/fb.png"></a>
 </p>
 
 
@@ -55,8 +55,8 @@ Hack-Box is a bash based script which is made for easyly used hacking tools in t
 
 <br>
 <p align="center">
-<img width="45%" src=""/>
-<img width="50%" src=""/>
+<img width="45%" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/2.png"/>
+<img width="50%" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/3.png"/>
 </p>
 
 
