@@ -37,7 +37,8 @@ clear
 sleep 1.0
 echo -e "Now type hack-box for run script and type stored-data for see hacked-data"
 sleep 1.0
-cd $HOME
+cd $HOME/Hack-Box
+rm setup.sh
 
 
 
