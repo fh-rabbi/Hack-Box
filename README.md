@@ -50,6 +50,8 @@ Hack-Box is a bash based script which is made for easyly used hacking tools in t
 [+]-- Type hack-box for run script
 [+]-- Type stored-data for view hacked data
 ```
+* [Username :blackhat]
+* [Password :fh_rabbi]
 
 ## SCREEN SHOTS [Termux]:
 
