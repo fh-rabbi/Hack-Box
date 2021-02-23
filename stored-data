@@ -1,3 +1,4 @@
 clear
 echo -e "\033[1;93mType bellow command"
-echo -e "    \033[100m\033[1;92mcd $HOME/Hack-Box/.core\033[0m\n"
+echo -e "    \033[100m\033[1;92mcd $HOME/Hack-Box/.core
+then ls\033[0m\n"
